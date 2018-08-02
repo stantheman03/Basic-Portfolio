@@ -185,11 +185,13 @@ footer {
 	border-top: 7px solid #4aaaa5;
 }
 
+/* Portfolio  page alignment */
+
 div.right{
-		float: right;
-		display: inline-block;
+	float: right;
+	display: inline-block;
     width: 250px;
-    height: 250px;
+    height: 250px;}
 
 
 		
